@@ -1,0 +1,13 @@
+C:\Study\Prism\prismDemo\prismDemo.Infrastructure\bin\Debug\prismDemo.Infrastructure.dll
+C:\Study\Prism\prismDemo\prismDemo.Infrastructure\bin\Debug\prismDemo.Infrastructure.pdb
+C:\Study\Prism\prismDemo\prismDemo.Infrastructure\obj\Debug\prismDemo.Infrastructure.Properties.Resources.resources
+C:\Study\Prism\prismDemo\prismDemo.Infrastructure\obj\Debug\prismDemo.Infrastructure.csproj.GenerateResource.cache
+C:\Study\Prism\prismDemo\prismDemo.Infrastructure\obj\Debug\prismDemo.Infrastructure.dll
+C:\Study\Prism\prismDemo\prismDemo.Infrastructure\obj\Debug\prismDemo.Infrastructure.pdb
+C:\GitHub\PrismDemo\prismDemo.Infrastructure\bin\Debug\prismDemo.Infrastructure.dll
+C:\GitHub\PrismDemo\prismDemo.Infrastructure\bin\Debug\prismDemo.Infrastructure.pdb
+C:\GitHub\PrismDemo\prismDemo.Infrastructure\obj\Debug\prismDemo.Infrastructure.csprojAssemblyReference.cache
+C:\GitHub\PrismDemo\prismDemo.Infrastructure\obj\Debug\prismDemo.Infrastructure.Properties.Resources.resources
+C:\GitHub\PrismDemo\prismDemo.Infrastructure\obj\Debug\prismDemo.Infrastructure.csproj.GenerateResource.cache
+C:\GitHub\PrismDemo\prismDemo.Infrastructure\obj\Debug\prismDemo.Infrastructure.dll
+C:\GitHub\PrismDemo\prismDemo.Infrastructure\obj\Debug\prismDemo.Infrastructure.pdb
